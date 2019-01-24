@@ -122,6 +122,7 @@ Work on Desert scene and UI (Loading screen, main menu, about and attribution). 
   4. Add About button that goes to a second canvas on the same scene
     - For pop ups, make a not-active second canvas -> panel -> scrollview. Enable second canvas on button click to show up
   5. Decisions on adding more features or polishing what you have for the presentation (went with the later)
+  6. Adding Screenshot functionality
 
 _Issues:_
 - Disk space saga continues
@@ -133,3 +134,15 @@ _Issues:_
 
 **Week 4**
 Finalizing scenes (density of prefabs, overall look), smoother UI, documentation, version control revisited
+
+  1. Tabled fixing scene load, api calls, etc to future release
+  2. Created a coastal scene
+    - [Digital Life 3D](http://Digitallife3d.org/3d-model/) has 3D scans of some endangered species. Would be really great to populate based off region down the road
+  3. Adding music, unifying icon look, overall styling
+  4. About blurb, so many attributions
+  4. Adding main menu background, app icon (drew this in a classmate's ipad Adobe Sketch)
+  5. Redoing Git repo (not tracking assets for licensing concerns)
+  6. Documentation (README), prepping for presentation
+
+_Issues:_
+- Explored sites like flaticon and Sketchfab for resources. These are great but will need to look into how to import them in the file formats are different. Ended up downloading Blender and looked into Gimp.
