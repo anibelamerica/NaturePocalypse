@@ -550,72 +550,67 @@ PrefabInstance:
     - target: {fileID: 928806971044173346, guid: cdbed1ca5924f4a459d7c5483d49aa30,
         type: 3}
       propertyPath: m_AnchorMax.x
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 928806971044173346, guid: cdbed1ca5924f4a459d7c5483d49aa30,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 928806971044173346, guid: cdbed1ca5924f4a459d7c5483d49aa30,
         type: 3}
       propertyPath: m_SizeDelta.x
-      value: 0
+      value: -17
       objectReference: {fileID: 0}
     - target: {fileID: 928806970043568851, guid: cdbed1ca5924f4a459d7c5483d49aa30,
         type: 3}
       propertyPath: m_SizeDelta.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 928806970043568851, guid: cdbed1ca5924f4a459d7c5483d49aa30,
-        type: 3}
-      propertyPath: m_AnchoredPosition.y
-      value: -0.000043997803
+      value: 1954
       objectReference: {fileID: 0}
     - target: {fileID: 928806970956309135, guid: cdbed1ca5924f4a459d7c5483d49aa30,
         type: 3}
       propertyPath: m_AnchorMin.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 928806970956309135, guid: cdbed1ca5924f4a459d7c5483d49aa30,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 928806970956309135, guid: cdbed1ca5924f4a459d7c5483d49aa30,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 0
+      value: 315
       objectReference: {fileID: 0}
     - target: {fileID: 928806970956309135, guid: cdbed1ca5924f4a459d7c5483d49aa30,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 0
+      value: -977
       objectReference: {fileID: 0}
     - target: {fileID: 928806970956309135, guid: cdbed1ca5924f4a459d7c5483d49aa30,
         type: 3}
       propertyPath: m_SizeDelta.x
-      value: 0
+      value: 630
       objectReference: {fileID: 0}
     - target: {fileID: 928806970956309135, guid: cdbed1ca5924f4a459d7c5483d49aa30,
         type: 3}
       propertyPath: m_SizeDelta.y
-      value: 0
+      value: 1954
       objectReference: {fileID: 0}
     - target: {fileID: 928806970176836497, guid: cdbed1ca5924f4a459d7c5483d49aa30,
         type: 3}
       propertyPath: m_AnchorMin.y
-      value: 0
+      value: 0.69293755
       objectReference: {fileID: 0}
     - target: {fileID: 928806970176836497, guid: cdbed1ca5924f4a459d7c5483d49aa30,
         type: 3}
       propertyPath: m_AnchorMax.x
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 928806970176836497, guid: cdbed1ca5924f4a459d7c5483d49aa30,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 928806970956309134, guid: cdbed1ca5924f4a459d7c5483d49aa30,
         type: 3}
@@ -626,29 +621,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_isInputParsingRequired
       value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 928806970956309134, guid: cdbed1ca5924f4a459d7c5483d49aa30,
-        type: 3}
-      propertyPath: m_text
-      value: "Nature-pocalypse is an AR app that tips the scale in nature\u2019s favor.
-        Look through the camera into a fictional reality of what would happen if we
-        stepped back and gave the earth room to breathe. In this alternate universe,
-        will the view you see be one of overgrowth? Or might it actually be one of
-        balance?\n\n<u><b>How to use Nature-Pocalypse</b></u>\nClick the <i>start</i>
-        button, point at a flat surface until a prompt appears. The screen will turn
-        green. Tap and aim the camera at other surfaces. \n\n<u><b>Creation of this
-        app</b></u>\nThis project was developed as part of Ada Developer Academy's
-        C10 capstone project. \n\nThe idea for Nature-Pocalypse stemmed from the crossover
-        of a tattoo from an illustrious individual and a thought exercise of \"What
-        makes you happy?\" Seeing more of the natural world within my concrete, inorganic
-        one does the trick! The title comes from one of my fantastic mentors because
-        let's be honest, this theme can get pretty dark. And further ideas or a stream
-        of stretch goal plans came from reading \"The World Without Us\" by Alan Weisman."
-      objectReference: {fileID: 0}
-    - target: {fileID: 1141004985582090911, guid: cdbed1ca5924f4a459d7c5483d49aa30,
-        type: 3}
-      propertyPath: m_inputSource
-      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1141004985582090911, guid: cdbed1ca5924f4a459d7c5483d49aa30,
         type: 3}
@@ -675,11 +647,6 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgument
       value: 
       objectReference: {fileID: 288663780}
-    - target: {fileID: 928806971044173375, guid: cdbed1ca5924f4a459d7c5483d49aa30,
-        type: 3}
-      propertyPath: m_ShowMaskGraphic
-      value: 0
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cdbed1ca5924f4a459d7c5483d49aa30, type: 3}
 --- !u!1 &288663780 stripped
