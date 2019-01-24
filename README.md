@@ -113,7 +113,8 @@ Some stretch goals include:
 - Integrating GPS for country code and potentially querying/developing APIs for additional information based on general region/nearby features/country code, etc.
 - Learning model creation and populating the scene with endangered species for that region.
 
-__Planning Resources__
+__Planning Resources and Notes__
 1. [Product Plan](https://gist.github.com/anibelamerica/eefdb4893ea471ef2fc3a347af27d07f)
 2. [Modified UnityARHitTestExample](https://github.com/anibelamerica/NaturePocalypse/blob/master/UnityARHitTestExampleModified.txt)
 3. [Development Notes](https://github.com/anibelamerica/NaturePocalypse/blob/master/Development_Notes.md) - tutorials and ramping up process listed here
+4.  Team Unity Support Group: Since this was a nature app, Be-leaf me when I sea that you ROCK! 
