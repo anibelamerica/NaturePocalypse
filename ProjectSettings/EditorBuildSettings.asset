@@ -18,7 +18,7 @@ EditorBuildSettings:
     path: Assets/Scenes/LoadingScreen.unity
     guid: cd413f9a3f8634f03bd8caa321651cf2
   - enabled: 1
-    path: Assets/Scenes/Coast.unity
+    path: Assets/Scenes/Tropics.unity
     guid: 6ab631b18a5b54cf78d1285413f6d4f7
   - enabled: 1
     path: Assets/Scenes/Chaos.unity
