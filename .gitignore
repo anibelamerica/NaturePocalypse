@@ -5,7 +5,15 @@
 [Bb]uilds/
 [Bb]uildVersions/
 [Ll]ogs/
-[Aa]ssets
+[Aa]ssets/Art
+[Aa]ssets/Audio
+[Aa]ssets/Fonts
+[Aa]ssets/Materials
+[Aa]ssets/Plugins
+[Aa]ssets/Prefabs
+[Aa]ssets/SVG Icons
+[Aa]ssets/TextMesh Pro
+[Aa]ssets/Unity-Technologies-unity-arkit-plugin
 
 Assets/AssetStoreTools*
 
